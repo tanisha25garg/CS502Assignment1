@@ -59,12 +59,27 @@ The task is to classify tumors as **Malignant (cancerous)** or **Benign (non-can
 
 1. Clone this repository:  
    ```bash
-   git clone https://github.com/tanisha25garg/CS603Assignment1.git
-   cd CS603Assignment1
+   git clone https://github.com/tanisha25garg/CS502Assignment1.git
+   cd CS502Assignment1
 
 2. Run the script:
    ```bash
    python Assignment1_Code.ipynb
+
+---
+
+## 📸 Report
+
+The full report with code, outputs, and screenshots is included in Assignment1_Report.pdf.
+
+---
+
+## Technologies Used
+
+- Python
+- Pandas, NumPy
+- Scikit-learn
+- Matplotlib, Seaborn
 
 ---
 
